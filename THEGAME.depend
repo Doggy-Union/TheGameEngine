@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1463384944 source:f:\programming\Ñpp\thegame\main.cpp
+	<iostream>
+	<vector>
+
+1463385377 source:f:\programming\Ñpp\thegame\time.cpp
+
+1463467616 source:f:\programming\ñpp\thegame\time.cpp
+	<cstdlib>
+	<cstdio>
+	<string>
+	"TIME.h"
+
+1463468239 source:f:\programming\ñpp\thegame\main.cpp
+	<iostream>
+	<vector>
+	"ITEM.h"
+
+1463385558 source:f:\programming\ñpp\thegame\desc_interface.cpp
+
+1463467709 f:\programming\ñpp\thegame\time.h
+	"SAVE_INTERFACE.h"
+
+1463467706 f:\programming\ñpp\thegame\save_interface.h
+	<string>
+
+1463467783 source:f:\programming\ñpp\thegame\item.cpp
+
+1463468667 f:\programming\ñpp\thegame\item.h
+	"DESC_INTERFACE.h"
+	<string>
+
+1463386157 f:\programming\ñpp\thegame\desc_interface.h
+	<string>
+
