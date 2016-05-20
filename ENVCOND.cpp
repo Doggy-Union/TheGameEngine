@@ -22,5 +22,6 @@ void EnvCond::changeTimeOfDay(bool requiredTimeOfDay) {
     this -> timeOfDay = requiredTimeOfDay;
 }
 
-std::string EnvCond::generateDesc() {
+std::string EnvCond::getDescription() {
+
 }
