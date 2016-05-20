@@ -2,6 +2,7 @@
 #include <vector>
 
 #include "ITEM.h"
+#include "ENVCOND.h"
 
 using namespace std;
 
